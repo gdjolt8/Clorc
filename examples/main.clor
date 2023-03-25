@@ -1,0 +1,3 @@
+a: char = 'F';
+__Putchar("a"/5);
+__Putchar(8 * 6);
